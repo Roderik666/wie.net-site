@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "fa6r";
+    src: url("../fonts/fontawesome-free-6.7.2-desktop/otfs/Font Awesome 6 Free-Regular-400.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "fa6s";
+    src: url("../fonts/fontawesome-free-6.7.2-desktop/otfs/Font Awesome 6 Free-Solid-900.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "fa6b";
+    src: url("../fonts/fontawesome-free-6.7.2-desktop/otfs/Font Awesome 6 Brands-Regular-400.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}

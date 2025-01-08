@@ -1,0 +1,11 @@
+body {
+    background-image: url("../img/screenshots/spawn-1.png");
+    background-repeat: no-repeat;
+}
+img {
+    height: 48px;
+    width: 48px;
+}
+h1 {
+    font-size: 48px;
+}
